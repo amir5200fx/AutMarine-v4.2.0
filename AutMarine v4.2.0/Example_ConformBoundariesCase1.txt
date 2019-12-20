@@ -1,0 +1,27 @@
+----------------{ Solid Report }----------------
+
+   Name: Unknown
+   Index: 0
+
+   Nb. of Vertices: 992
+   Nb. of Edges: 1114
+   Nb. of Surfaces: 59
+   Nb. of Holes: 11
+
+   Has Free Corner? YES
+   Nb. of Free Edges: 1029
+
+-------------{ End of Solid Report }-------------
+----------------{ Solid Report }----------------
+
+   Name: Unknown
+   Index: 0
+
+   Nb. of Vertices: 992
+   Nb. of Edges: 1045
+   Nb. of Surfaces: 59
+   Nb. of Holes: 0
+
+   Has Free Corner? NO
+
+-------------{ End of Solid Report }-------------

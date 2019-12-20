@@ -1,0 +1,4 @@
+ Exception has been occured!
+Can not Calculate length of the curve
+c:\users\pc\documents\visual studio 2017\projects\autmarine v4.2.0\autmarine v4.2.0\autlib\mesh\curve\mesh2d_curve.cxx # line nb. 132 at function: double __cdecl AutLib::MeshLib::CalcLength(const class AutLib::MeshLib::Mesh2d_CurveIntegrand &,const double,const int,const int)
+ Implimented in c:\users\pc\documents\visual studio 2017\projects\autmarine v4.2.0\autmarine v4.2.0\autlib\mesh\curve\mesh2d_curve.cxx # line nb. 181 at function: void __cdecl AutLib::MeshLib::Mesh2d_Curve::Perform(void)

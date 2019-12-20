@@ -1,0 +1,41 @@
+NbBlades= 6
+Diameter= 6
+HubRadius= 0.6
+NbSections= 48
+NbSpans= 20
+
+Pitch_Root= 55
+Pitch_Tip= 25
+Pitch_RootSteep= 0.5
+Pitch_TipSteep= 0.8
+
+Skew_Tip= 2
+Skew_RootSteep= 0.5
+Skew_TipSteep= 0.5
+
+Chord_ChordLocation= 0.6
+Chord_Max= 1.6
+Chord_Root= 0.4
+Chord_Tip= 0
+Chord_RootWeight= 0.5
+Chord_TipWeight= 0.8
+
+Camber_ChordLocation= 0.5
+Camber_Max= 0.01
+Camber_Root= 0.004
+Camber_Tip= 0
+Camber_RootWeight= 0.5
+Camber_TipWeight= 0.5
+
+Tickness_Root= 0.12
+Tickness_Tip= 0.06
+Tickness_RootSteep= 0.5
+Tickness_TipSteep= 0.5
+
+Rake= 0.6
+
+Hub_Length= 1.4
+Hub_Weight= 0.5
+Hub_ShaftLength= 48
+Hub_ShaftOffset= 1
+Hub_ShaftRadius= 0.3

@@ -1,0 +1,9 @@
+#pragma once
+inline
+Standard_Boolean AutLib::CadLib::Cad3d_EdgeOnPlaneTools::IsLess(Global_Handle(Cad3d_EdgeOnPlane) const & theEdge1, Global_Handle(Cad3d_EdgeOnPlane) const & theEdge2)
+{
+	Debug_Null_Pointer(theEdge1);
+	Debug_Null_Pointer(theEdge2);
+
+	return theEdge1->Index() < theEdge2->Index();
+}

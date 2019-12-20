@@ -1,0 +1,33 @@
+----------------{ Solid Report }----------------
+
+   Name: Unknown
+   Index: 0
+
+   Nb. of Vertices: 42
+   Nb. of Edges: 63
+   Nb. of Surfaces: 29
+   Nb. of Holes: 1
+
+   Has Free Corner? NO
+
+-------------{ End of Solid Report }-------------
+-----------------{ Entities Blocks Informations }-----------------
+ Nb. of Blocks: 5
+ Block List: 
+
+  - Blades Nb. of Entity = 12
+ Entity List: 
+5  6  8  9  11  12  14  15  17  18  20  21  
+  - Hub Nb. of Entity = 4
+ Entity List: 
+1  2  4  23  
+  - Hub Apex Nb. of Entity = 1
+ Entity List: 
+3  
+  - Tip Nb. of Entity = 6
+ Entity List: 
+24  25  26  27  28  29  
+  - Trailing Edge Nb. of Entity = 6
+ Entity List: 
+7  10  13  16  19  22  
+-----------------{ End of Entities Blocks Informations }-----------------

@@ -1,0 +1,24 @@
+----------------{ Solid Report }----------------
+
+   Name: Unknown
+   Index: 0
+
+   Nb. of Vertices: 22
+   Nb. of Edges: 33
+   Nb. of Surfaces: 15
+   Nb. of Holes: 1
+
+   Has Free Corner? NO
+
+-------------{ End of Solid Report }-------------
+-----------------{ Entities Blocks Informations }-----------------
+ Nb. of Blocks: 2
+ Block List: 
+
+  - Default Block Surface Nb. of Entity = 9
+ Entity List: 
+1  2  3  4  5  6  7  8  9  
+  - Default Inner Shell 1 Nb. of Entity = 6
+ Entity List: 
+10  11  12  13  14  15  
+-----------------{ End of Entities Blocks Informations }-----------------
